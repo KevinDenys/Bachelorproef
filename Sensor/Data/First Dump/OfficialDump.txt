@@ -1,0 +1,18 @@
+Kevin Denys
+ID	Tijd	Type vastlegging	Historie glucose (mg/dL)	Scan glucose (mg/dL)	Niet-numeriek snelwerkende insuline	Snelwerkende insuline (eenheden)	Niet-numeriek voedsel	Koolhydraten (gram)	Niet-numeriek langwerkende insuline	Langwerkende insuline (eenheden)	Notities	Strip glucose (mg/dL)	Keton (mmol/L)	Maaltijdinsuline (eenheden)	Correctieinsuline (eenheden)	Gebruikerswijziging insuline (eenheden)	Vorige tijd	Bijgewerkte tijd
+21564	2018-01-24 11:27	1					152
+21563	2018-01-24 11:26	1					152
+21562	2018-01-24 11:25	1					151
+21561	2018-01-24 11:24	1					151
+21560	2018-01-24 11:23	1					151
+21559	2018-01-24 11:22	1					150
+21558	2018-01-24 11:21	1					149
+21557	2018-01-24 11:20	1					148
+21556	2018-01-24 11:19	1					146
+21555	2018-01-24 11:18	1					146
+21554	2018-01-24 11:17	1					145
+21553	2018-01-24 11:16	1					145
+21552	2018-01-24 11:15	1					144
+21551	2018-01-24 11:14	1					143
+21550	2018-01-24 11:13	1					142
+21549	2018-01-24 11:12	1					142

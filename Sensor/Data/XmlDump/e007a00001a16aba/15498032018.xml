@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<InfoDump application="NFC TagInfo" version="1.12a">
+  <Tag rfTechnology="Type V (ISO/IEC 15693 / Vicinity)">
+    <GeneralInformation>
+      <Value name="uid" description="UID">e007a00001a16aba</Value>
+      <Value name="rfTechnology" description="RF technology">Type V (ISO/IEC 15693 / Vicinity)</Value>
+      <Value name="manufacturer" description="Manufacturer">Texas Instruments (France)</Value>
+      <Value name="dsfid" description="DSF Id">00</Value>
+      <Value name="responseFlags" description="Response flags">00</Value>
+      <Value name="targetTechClasses" description="Target technology classes (Android)">android.nfc.tech.NfcV,
+android.nfc.tech.NdefFormatable</Value>
+    </GeneralInformation>
+    <MemoryTag>
+      <GeneralInformation>
+        <Value name="memorySize" description="Memory size">800 Byte</Value>
+        <Value name="blockSize" description="Block size">8 Byte</Value>
+        <Value name="numberOfBlocks" description="Number of blocks">244</Value>
+      </GeneralInformation>
+      <Data unit="block">
+        <Block index="0" locked="true" factoryLocked="false">3acf101603000000</Block>
+        <Block index="1" locked="true" factoryLocked="false">0000000000000000</Block>
+        <Block index="2" locked="true" factoryLocked="false">0000000000000000</Block>
+        <Block index="3" locked="true" factoryLocked="false">4422020a33068816</Block>
+        <Block index="4" locked="true" factoryLocked="false">99804d06c80c9980</Block>
+        <Block index="5" locked="true" factoryLocked="false">dc04c81cda80f304</Block>
+        <Block index="6" locked="true" factoryLocked="false">c8f0d9800605c8c4</Block>
+        <Block index="7" locked="true" factoryLocked="false">99800c05c8989980</Block>
+        <Block index="8" locked="true" factoryLocked="false">3105c87499805505</Block>
+        <Block index="9" locked="true" factoryLocked="false">c85499806c05c84c</Block>
+        <Block index="10" locked="true" factoryLocked="false">99808705c8409980</Block>
+        <Block index="11" locked="true" factoryLocked="false">9605c8389980a805</Block>
+        <Block index="12" locked="true" factoryLocked="false">c8389980c905c834</Block>
+        <Block index="13" locked="true" factoryLocked="false">d980db05c8349980</Block>
+        <Block index="14" locked="true" factoryLocked="false">f205c830d9800b06</Block>
+        <Block index="15" locked="true" factoryLocked="false">c828d9801b05c804</Block>
+        <Block index="16" locked="true" factoryLocked="false">9780c404c80c9880</Block>
+        <Block index="17" locked="true" factoryLocked="false">c304c8e09780fe04</Block>
+        <Block index="18" locked="true" factoryLocked="false">c83099800d05c854</Block>
+        <Block index="19" locked="true" factoryLocked="false">d980d704c8a4d980</Block>
+        <Block index="20" locked="true" factoryLocked="false">a604c8349a808304</Block>
+        <Block index="21" locked="true" factoryLocked="false">c850da805b04c888</Block>
+        <Block index="22" locked="true" factoryLocked="false">db801b05c8989980</Block>
+        <Block index="23" locked="true" factoryLocked="false">880bc8309680db0b</Block>
+        <Block index="24" locked="true" factoryLocked="false">c8749680650bc8e8</Block>
+        <Block index="25" locked="true" factoryLocked="false">9680e30ac8549680</Block>
+        <Block index="26" locked="true" factoryLocked="false">d509c82c9680a608</Block>
+        <Block index="27" locked="true" factoryLocked="false">c84897809e07c8a8</Block>
+        <Block index="28" locked="true" factoryLocked="false">9780e806c8909780</Block>
+        <Block index="29" locked="true" factoryLocked="false">8406c80c97800006</Block>
+        <Block index="30" locked="true" factoryLocked="false">c8709780ed06c818</Block>
+        <Block index="31" locked="true" factoryLocked="false">9880f607c8b89780</Block>
+        <Block index="32" locked="true" factoryLocked="false">f005c818d980e903</Block>
+        <Block index="33" locked="true" factoryLocked="false">c830da80e502c8c8</Block>
+        <Block index="34" locked="true" factoryLocked="false">d9804902c8dc9880</Block>
+        <Block index="35" locked="true" factoryLocked="false">d302c8d89780ed04</Block>
+        <Block index="36" locked="true" factoryLocked="false">c828d8800506c84c</Block>
+        <Block index="37" locked="true" factoryLocked="false">9880a705c8309880</Block>
+        <Block index="38" locked="true" factoryLocked="false">9305c8d097806a05</Block>
+        <Block index="39" locked="true" factoryLocked="false">c86c978003370000</Block>
+        <Block index="40" locked="true" factoryLocked="false">ccf80001fb063351</Block>
+        <Block index="41" locked="true" factoryLocked="false">140796805a00eda6</Block>
+        <Block index="42" locked="true" factoryLocked="false">0a5a1ac804062a69</Block>
+        <Block index="43" locked="true" factoryLocked="false">9e422183f2900700</Block>
+        <Block index="44" locked="true" factoryLocked="false">060802240c43173c</Block>
+        <Block index="45" locked="true" factoryLocked="false">c2430808b240df00</Block>
+        <Block index="46" locked="true" factoryLocked="false">0808d242a2f90808</Block>
+        <Block index="47" locked="true" factoryLocked="false">d242a3f908080c41</Block>
+        <Block index="48" locked="true" factoryLocked="false">0c539212901c5c93</Block>
+        <Block index="49" locked="true" factoryLocked="false">0320a2410808023c</Block>
+        <Block index="50" locked="true" factoryLocked="false">b24308081c432153</Block>
+        <Block index="51" locked="true" factoryLocked="false">30410a124a4c4c93</Block>
+        <Block index="52" locked="true" factoryLocked="false">0b20b24050cc0207</Block>
+        <Block index="53" locked="true" factoryLocked="false">92d30007b2c00002</Block>
+        <Block index="54" locked="true" factoryLocked="false">0007a2d20007023c</Block>
+        <Block index="55" locked="true" factoryLocked="false">9212821c32d0d800</Block>
+        <Block index="56" locked="true" factoryLocked="false">e2b3c31c0928e2c3</Block>
+        <Block index="57" locked="true" factoryLocked="false">c31c4a93052412c3</Block>
+        <Block index="58" locked="true" factoryLocked="false">1210a41c1211a41c</Block>
+        <Block index="59" locked="true" factoryLocked="false">3a4130410a120b12</Block>
+        <Block index="60" locked="true" factoryLocked="false">081209120612f290</Block>
+        <Block index="61" locked="true" factoryLocked="false">070006086820b012</Block>
+        <Block index="62" locked="true" factoryLocked="false">3afb61209212781c</Block>
+        <Block index="63" locked="true" factoryLocked="false">3a40faf94c438a12</Block>
+        <Block index="64" locked="true" factoryLocked="false">3b40841c264b3840</Block>
+        <Block index="65" locked="true" factoryLocked="false">b0f93940a41cb290</Block>
+        <Block index="66" locked="true" factoryLocked="false">0020a41c092c1f43</Block>
+        <Block index="67" locked="true" factoryLocked="false">b01230fb3f400020</Block>
+        <Block index="68" locked="true" factoryLocked="false">2f89824fa41c063c</Block>
+        <Block index="69" locked="true" factoryLocked="false">0f43b01230fbb250</Block>
+        <Block index="70" locked="true" factoryLocked="false">00e0a41c9252a41c</Block>
+        <Block index="71" locked="true" factoryLocked="false">a41c2f497e420d43</Block>
+        <Block index="72" locked="true" factoryLocked="false">0c48ab121f435e43</Block>
+        <Block index="73" locked="true" factoryLocked="false">3d4022000c48ab12</Block>
+        <Block index="74" locked="true" factoryLocked="false">b2900001a41c0828</Block>
+        <Block index="75" locked="true" factoryLocked="false">7f437e420d430c48</Block>
+        <Block index="76" locked="true" factoryLocked="false">ab127c403400293c</Block>
+        <Block index="77" locked="true" factoryLocked="false">6c428a122f493ff0</Block>
+        <Block index="78" locked="true" factoryLocked="false">ff07824fa61c1f42</Block>
+        <Block index="79" locked="true" factoryLocked="false">a61c7e400b003d40</Block>
+        <Block index="80" locked="true" factoryLocked="false">16000c48ab127c40</Block>
+        <Block index="81" locked="true" factoryLocked="false">05008a122f497e40</Block>
+        <Block index="82" locked="true" factoryLocked="false">0c003d4028000c48</Block>
+        <Block index="83" locked="true" factoryLocked="false">ab127c4006008a12</Block>
+        <Block index="84" locked="true" factoryLocked="false">2f497e400c003d40</Block>
+        <Block index="85" locked="true" factoryLocked="false">34000c48ab12b2b0</Block>
+        <Block index="86" locked="true" factoryLocked="false">10002201062c7c40</Block>
+        <Block index="87" locked="true" factoryLocked="false">280092128c1c0c43</Block>
+        <Block index="88" locked="true" factoryLocked="false">053ce2c2c31c9212</Block>
+        <Block index="89" locked="true" factoryLocked="false">941c1c4330406c5f</Block>
+        <Block index="90" locked="true" factoryLocked="false">5e433d4021000c48</Block>
+        <Block index="91" locked="true" factoryLocked="false">0046c2430808e2d2</Block>
+        <Block index="92" locked="true" factoryLocked="false">c31c9212981c4c93</Block>
+        <Block index="93" locked="true" factoryLocked="false">3041f29007000608</Block>
+        <Block index="94" locked="true" factoryLocked="false">02240c433041b012</Block>
+        <Block index="95" locked="true" factoryLocked="false">3afb0824a243dcf8</Block>
+        <Block index="96" locked="true" factoryLocked="false">7c40280092128c1c</Block>
+        <Block index="97" locked="true" factoryLocked="false">0c4330419212781c</Block>
+        <Block index="98" locked="true" factoryLocked="false">92d30007b2404bd8</Block>
+        <Block index="99" locked="true" factoryLocked="false">0207b2c000020007</Block>
+      </Data>
+    </MemoryTag>
+  </Tag>
+</InfoDump>
